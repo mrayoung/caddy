@@ -167,3 +167,7 @@ Caddy was born out of the need for a "batteries-included" web server that runs a
 **The name "Caddy" is trademarked:** The name of the software is "Caddy", not "Caddy Server" or "CaddyServer". Please call it "Caddy" or, if you wish to clarify, "the Caddy web server". See [brand guidelines](https://caddyserver.com/brand). Caddy is a registered trademark of Light Code Labs, LLC.
 
 *Author on Twitter: [@mholt6](https://twitter.com/mholt6)*
+
+### Digital Ocean
+
+https://blog.digitalocean.com/deploying-a-fully-automated-git-based-static-website-in-under-5-minutes/
